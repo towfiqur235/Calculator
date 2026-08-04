@@ -70,6 +70,7 @@ The calculator has a modern dark interface with:
 
 <img width="865" height="441" alt="image" src="https://github.com/user-attachments/assets/b775e312-2f1e-4781-9172-9c36c3aa9ed1" />
 
+<img width="341" height="440" alt="image" src="https://github.com/user-attachments/assets/65b53373-fb36-4e76-b697-2338b2cfb33e" />
 
 
 ## 🌐 Live Demo

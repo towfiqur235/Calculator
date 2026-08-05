@@ -75,9 +75,8 @@ The calculator has a modern dark interface with:
 
 ## 🌐 Live Demo
 
-Add your live website link here:
 
-**Live Demo:** `YOUR-LIVE-DEMO-LINK`
+**Live Demo:** towfiqur-calculator.netlify.app
 
 ## 📌 Future Improvements
 
